@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "619083065237",
+    "firebase_url": "https://test-7f54f.firebaseio.com",
+    "project_id": "test-7f54f",
+    "storage_bucket": "test-7f54f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619083065237:android:86940a64161d30ae5cf89c",
+        "android_client_info": {
+          "package_name": "com.devhills.jobcenter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619083065237-ju9li920jgpduf8o4rg7s1t3k0rjpd7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTUTtqITmFgxkHxxzkfVjltOCB8XmLGSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619083065237-ju9li920jgpduf8o4rg7s1t3k0rjpd7n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "619083065237-ajjgjg4k90j1gvsqi8br4e8c7vee79sb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.devhills.romantica"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
